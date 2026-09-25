@@ -80,5 +80,5 @@ Successfully completed the Deloitte Australia Data Analytics Job Simulation on A
 Computer Science Engineer | Data Analyst | Data Science & Analytics Enthusiast
 
 ### Connect With Me
-- LinkedIn: [Add Your LinkedIn URL]
+- LinkedIn: [www.linkedin.com/in/constancexaviers]
 - GitHub: https://github.com/CodecraftsFamilySMBCL
